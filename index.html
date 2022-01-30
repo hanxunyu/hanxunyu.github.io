@@ -1,204 +1,220 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
 
-<head>
-    <meta charset="UTF-8">
-    <title>简历生成器</title>
-    <link rel="stylesheet" href="static/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal-default-theme.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.min.js"></script>
-    <script src="static/js/script.js"></script>
+<link rel="stylesheet" href="./assests/css/mfp.css" type="text/css">
+<title>Fanpeng Meng</title>
+<style type="text/css">
+BODY {
+	BACKGROUND-COLOR: #ffffff
+}
+.style1 {
+	FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman";
+}
+.style2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px FONT-FAMILY:"Times New Roman"
+}
+.style7 {
+	FONT-WEIGHT: bold; FONT-SIZE: x-large; FONT-FAMILY:"Times New Roman"
+}
+.style8 {
+	font-family: "Times New Roman";
+	font-size: 36px;
+}
+.style9 {
+	font-family: "Times New Roman";
+	FONT-SIZE: 18px
+}
+.style12 {
+	font-family: "Times New Roman";
+	FONT-SIZE: 20px
+}
+.style13 {
+	FONT-SIZE: 12px; FONT-FAMILY: Times New Roman
+}
+.style17 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-FAMILY: Times New Roman
+}
+.STYLE18 {
+	font-family: "Times New Roman";
+	font-size: 36px;
+}
+</style>
 </head>
 
-<body>
-    <div class="container" id="cv">
-        <div class="side">
-            <div class="me">
-                <div class="portrait"></div>
-                <div class="remodal remodal-img" data-remodal-id="portrait-modal">
-                    <h3>请输入图片URL地址：</h3>
-                    <br/>
-                    <input type="text" id="avatar-url">
-                    <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
-                </div>
-                <h1 id="username" >ekCit</h1>
-                <h4 id="persona-tag" >Python / Web / 互联网教育</h4>
-            </div>
-            <div class="profile info-unit">
-                <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title">基本信息</span></h2>
-                <hr>
-                <ul class="info-list">
-                    <li>
-                        <label class="left-label">姓名</label><span class="label-value">XXX</span></li>
-                    <li>
-                        <label class="left-label">学历</label><span class="label-value">本科</span></li>
-                    <li>
-                        <label class="left-label">毕业院校</label><span class="label-value">北京邮电大学</span></li>
-                    <li>
-                        <label class="left-label">毕业年份</label><span class="label-value">2017</span></li>
-                </ul>
-            </div>
-            <div class="contact info-unit">
-                <h2 class="info-header"><i class="iconfont icon-call"></i> <span class="info-title">联系方式</span></h2>
-                <hr>
-                <ul class="info-list">
-                    <li>
-                        <label class="left-label">手机</label><span class="label-value">182XXXXXXXX</span></li>
-                    <li>
-                        <label class="left-label">邮箱</label><span class="label-value">crmrc2014@gmail.com</span></li>
-                    <li>
-                        <label class="left-label">个人主页</label><span class="label-value">exit-tixe.me</span></li>
-                    <li>
-                        <label class="left-label">Github</label><span class="label-value">github.com/ekCit</span></li>
-                </ul>
-            </div>
-            <div class="skill info-unit">
-                <h2 class="info-header"><i class="iconfont icon-star"></i> <span class="info-title">技能点</span></h2>
-                <hr>
-                <ul class="progress-list">
-                    <li>
-                        <label class="left-label">Python</label>
-                        <progress value="80" max="100"></progress>
-                    </li>
-                    <li>
-                        <label class="left-label">html/css</label>
-                        <progress value="70" max="100"></progress>
-                    </li>
-                    <li>
-                        <label class="left-label">Javascript</label>
-                        <progress value="60" max="100"></progress>
-                    </li>
-                    <li>
-                        <label class="left-label">机器学习</label>
-                        <progress value="60" max="100"></progress>
-                    </li>
-                </ul>
-            </div>
-            <div class="stack info-unit">
-                <h2 class="info-header"><i class="iconfont icon-build"></i> <span class="info-title">技术栈</span></h2>
-                <hr>
-                <ul class="stack-list">
-                    <li>
-                        <label class="left-label">前端</label><span class="label-value">jQuery、Angular.js、React.js</span></li>
-                    </li>
-                    <li>
-                        <label class="left-label">后端</label><span class="label-value">Flask、Django、Twisted、Node.js、MongoDB、MySQL、Redis</span></li>
-                    </li>
-                    <li>
-                        <label class="left-label">其它</label><span class="label-value">我全都是瞎写的。</span></li>
-                    </li>
-                </ul>
-            </div>
+<body data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">
+<div id="layout-content">
+<div id="toptitle">
+	<h1>Fanpeng Meng's Homepage</h1>
+</div>
 
-            <div class="code info-unit">
-                <h2 class="info-header"><i class="iconfont icon-weixin"></i> <span class="info-title">个人微信</span></h2>
-                <hr>
-                <div class="weixin">
-                    <img src="static/image/weixin.png" alt="">
-
-                </div>
-            </div>
-            <div class="remodal remodal-img" data-remodal-id="weixin-modal">
-                <h3>请输入图片URL地址：</h3>
-                <br/>
-                <input type="text" id="weixin-url">
-                <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
-            </div>
-        </div>
-        <div class="main">
-            <div class="education info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-education"></i> <span class="info-title">教育经历</span></h2>
-                <hr>
-                <ul class="experience-list">
-                    <li>
-                        <h3>北京邮电大学 - 网络工程专业（本科）2012-2017</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <div class="work info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-work"></i> <span class="info-title">工作经历</span></h2>
-                <hr>
-                <ul class="experience-list">
-                    <li>
-                        <h3>北京创客空间－实习生（实习）</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                        </p>
-                    </li>
-                    <li>
-                        <h3>实验楼－课程内容（实习）</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                    </li>
-                </ul class="experience-list">
-            </div>
-            <div class="project info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title">个人项目</span></h2>
-                <hr>
-                <ul class="experience-list">
-                    <li>
-                        <h3>基于 Qt 5 的文本编辑器</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam。Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            <br/>
-                        </p>
-                    </li>
-                    <li>
-                        <h3>基于 Flask 的主机监视系统</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                    </li>
-                    <li>
-                        <h3>基于 Live2D 与 clmtrackr 的山寨 Facerig</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                    </li>
-                    <li>
-                        <h3>如果项目太少，可以在实验楼上找项目做啊:D</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <div class="trophy info-unit">
-                <h2 class="info-header"><i class="iconfont icon-trophy"></i> <span class="info-title">奖项与证书</span></h2>
-                <hr>
-                <ul class="experience-list">
-                    <li>
-                        <h3>小学生作文二等奖</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam。
-                        </p>
-                    </li> 
-                    <li>
-                        <h3>曾获统一冰红茶“再来一瓶”奖</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam。
-                        </p>
-                    </li> 
-                    <li>
-                        <h3>这一行也是为了凑版面</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam。
-                        </p>
-                    </li>                     
-            </div>
-            <div class="aboutme info-unit right-paragraph">
-                <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title">自我评价</span></h2>
-                <hr>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-            </div>
-        </div>
+<!--<nav class="navbar navbar-dark navbar-expand-lg fixed-top">
+    <div id="layout-menu">
+        <a href="#publication">Publication</a>
+        <a href="#experience">Experience</a>
+        <a href="#service">Service</a>
+        <a href="#presentation">Presentation</a>
+        <a href="#award">Award</a>
+        <a href="#patent">Patent</a>
+        <a href="#teaching">Teaching</a>
     </div>
+</nav>-->
+
+<table class="imgtable">
+<tbody>
+<tr>
+	<td>
+		<img src="./assests/image/me.png" alt="Fanpeng Meng" width="180px" height="228px">
+	</td>
+	<td align="left">
+		<span class="style7">Fanpeng(Frank) Meng <br>孟繁鹏</span>
+		<br><br>
+		ACM Member, IEEE Member, CCF Member, <br>
+		Undergraduate Student (graduating in 2023).<br>
+		<a href="http://aia.hust.edu.cn/" target="_blank">School of AI & Automation (AIA), </a><br>
+		<a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology (HUST), </a>China.<br> 
+		<br>
+		Email: <a href="mailto:fanpengmeng@foxmail.com" target="_blank">fanpengmeng@foxmail.com</a> &nbsp;
+		<a href="mailto:fanpengmeng@hust.edu.cn" target="_blank">fanpengmeng@hust.edu.cn</a><br>
+		Wechat: mfp0610<br>
+		<a href="https://github.com/mfp0610" target="_blank">Github</a>&nbsp;
+		<a href="https://www.linkedin.com/in/fanpeng-meng-0610/" target="_blank">LinkedIn</a>
+		<br><br>
+		Here is my <a href="./assests/resume/CV_Meng.pdf" target="_blank">CV</a>. 
+		<!--(<a href="./assests/resume/CV_CH.pdf" target="_blank">Chinese</a>)-->
+	</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Biography</h2>
+<ul>
+	<p>
+		I am a senior undergraduate student at 
+		<a href="http://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology. </a><br>
+		My research interest is <b>Robotics & SLAM</b>, 
+		specifically on learing-based active neural SLAM applying reinforcement learning.<br>
+		Currently I am working with Prof. <a href="https://hughw19.github.io/" target="_blank">He Wang</a> 
+		at <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a> 
+		as an research assistant.<br>
+	</p>
+</ul>
+
+<h2>News</h2>
+<ul>
+	<li>[Jan 2022] Join CFCS, PKU, as an UG RA, supervsied by Prof. He Wang. </li>
+	<li>[Sep 2021] Join SINC-Lab, HUST, as an UG RA, supervsied by Prof. Yang Cao. </li>
+	<li>[Jul 2021] Join AI Lab, Suzhou Zhito Technology as an algorithm engineer intern, 
+		supervised by Dr. Jiali Bao.</li> 
+	<li>[Jan 2021] Join Suzhou R&D Center, Changchun Yidong Clutch as a software engineer intern, 
+		supervised by Dr. Xianping Xie.</li>
+</ul>
+
+<h2>Research Interests</h2>	
+<ul>
+	<li><p>Robotics & SLAM</p></li>
+	<li><p>Reinforcement Learning</p></li>
+	<li><p>Computer Vision</p></li>
+	<li><p>Weakly Supervised Learning</p></li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+	<li>
+		<b>Huazhong University of Science & Technology (HUST)</b>
+		<div style="float:right; text-align:right">Wuhan, China<br>Sep. 2019 - Jul. 2023</div><br>
+		B.Eng, Automation, School of Artificial Intelligence & Automation (AIA),<br>
+		<!--GPA: 3.63/4.00<br>-->
+	</li>
+	<!--<br>-->
+</ul>
+
+<h2>Experience</h2>
+	<h3>Research Experience</h3>
+	<ul>
+		<li>
+			<b><a href="https://cfcs.pku.edu.cn/english/" target="_blank">Center on Frontiers of Computing Studies (CFCS)</a>
+			<a href="https://cfcs.pku.edu.cn/" target="_blank">[CNweb]</a>, PKU</b>
+			<div style="float:right; text-align:right">Beijing, China<br>Jan. 2022 - Current</div><br>
+			<p>
+				UG Research Assistant<br>
+				Advisor: <a href="https://hughw19.github.io/" target="_blank">He Wang</a><br>
+				Topic: Learing-based Active Neural SLAM. <br>
+			</p>
+		</li>
+		<li>
+			<b><a href="http://sinc-lab.cse.hust.edu.cn/tdythyw/" target="_blank">EIC-SINC Lab</a>
+			<a href="http://sinc-lab.cse.hust.edu.cn/" target="_blank">[CNweb]</a>, HUST</b>
+			<div style="float:right; text-align:right">Wuhan, China<br>Sep. 2021 - Current</div><br>
+			<p>
+				UG Research Assistant<br>
+				Advisor: <a href="http://ei.hust.edu.cn/lab/SINC-lab/caoyang.html" target="_blank">Yang Cao</a><br>
+				Topic: Weakly Supervised Learning for Network Mode Classification and Prediction <br>
+			</p>
+		</li>
+		<li>
+			<b>Computer Lab, University of Cambridge</b>
+			<div style="float:right; text-align:right">Cambridge, England<br>Jul. 2021 - Sep. 2021</div> <br>
+			<p>
+				Summer Research Program on AI &nbsp; Grade: A+ <br>
+				Advisor: <a href="https://www.cl.cam.ac.uk/~pl219/" target="_blank">Pietro Lio</a> <br>
+				Topic: Human-tracking Robot in Crowded Situation <br>
+			</p>
+		</li>
+	</ul>
+	<h3>Professional Experience</h3>
+	<ul>
+		<li>
+			<b>AI Lab, <a href="https://www.zhito.com/?l=en-us" target="_blank">Suzhou Zhito Technology</a>
+			<a href="https://www.zhito.com?l=zh-cn" target="_blank">[CNweb]</a></b>
+			<div style="float:right; text-align:right">Cambridge, England<br>Jul. 2021 - Sep. 2021</div> <br>
+			<p>
+				Algorithm Engineering Intern<br>
+				AE intern for SLAM based on vision, work for the 3D semantic map<br>
+			</p>
+		</li>
+		<li>
+			<b>Suzhou R&D Center, Changchun Yidong Clutch CO.,LID
+			<a href="http://www.ccyd.com.cn/intro/13.html" target="_blank">[CNweb]</a></b>
+			<div style="float:right; text-align:right">Suzhou, China<br>Jan. 2021 - Mar. 2021</div> <br>
+			<p>
+				Software Development Engineering Intern<br>
+				Embedded SDE intern for control system and algorithm, work for the
+				CPD module of the automatic clutch.
+			</p>
+		</li>
+	</ul>
+
+<!--<h2>Publications</h2>
+<ul>
+	None. 
+</ul>-->
+
+<h2>Awards and Honors</h2>
+<ul>
+	<li><p>Scholarship for Self-improvement, HUST (2020)</p></li>
+	<li><p>Scholarship for Scientific and Technological Innovation, HUST (2020)</p></li>
+	<li><p>“Weipai” Seed Cup, HUST (2020) <b>Rank2(2/174)</b></p></li>
+	<li><p>Renesas Cup Smart Car Competition, HUST (2020) <b>Rank4(4/82)</b></p></li>
+	<li><p>National Olympiad in Informatics in Provinces (NOIP) (2018) <b>First Prize</b></p></li>
+</ul>
+
+<h2>People</h2>
+<h3>Supervisors</h3>
+	<a href="https://hughw19.github.io/" target="_blank">He Wang</a>: Professor of CFCS, PKU. <br>
+	<a href="http://ei.hust.edu.cn/lab/SINC-lab/caoyang.html" target="_blank">Yang Cao</a>: Professor of SINC-Lab, HUST. <br>
+	<a href="https://www.cl.cam.ac.uk/~pl219/" target="_blank">Pietro Lio</a>: Professor of Computer Lab, University of Cambridge. 
+<h3>Co-operators</h3>
+	<a href="https://home.shiroha.info" target="_blank">Chenyu Zhou</a>: UG, HUST. (SINC-Lab) <br>
+<h3>Friends</h3>
+	<a href="https://quwenjie.github.io" target="_blank">Wenjie Qu</a>: UG, HUST; &nbsp;
+	<a href="https://zhe-wang0018.github.io/" target="_blank">Zhe Wang</a>: UG, PolyU.
+
+<div id="footer">
+	<div class="foot">
+		<span> Last modified by Fanpeng Meng on Jan. 28th, 2022. </span>
+	</div>
+</div>
 </body>
 
 </html>
