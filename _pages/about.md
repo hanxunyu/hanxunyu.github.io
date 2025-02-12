@@ -52,10 +52,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 </div>
 <ul>
   <li>
-  <!-- <code class="language-plaintext highlighter-touge">
-  TPAMI 2024
-  </code> -->
-  <div class="badge">TPAMI 2024</div> &nbsp;
+  <div class="badge" style="display: inline-block; margin-right: 8px;">TPAMI 2024</div>
   <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang"
   </li>
 </ul>
