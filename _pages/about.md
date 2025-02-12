@@ -53,20 +53,20 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <ul>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger;" <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[**Paper**]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[**Code**]</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger;" <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a>
   </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div>
-  <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;" <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[**PDF**]</a>
+  <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;" <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024* Chiang Chen Scholarship. 
-- *2023* National Scholarship (**Top 2%**). 
-- *2022* Mitacs-CSC- Globalink Research Internship Scholarship. 
-- *2020,2021,2022* First-class Scholarship in Wuhan University (**Top 5%**). 
+- *2024* &nbsp;Chiang Chen Scholarship. 
+- *2023* &nbsp;National Scholarship (**Top 2%**). 
+- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship. 
+- *2020,2021,2022* &nbsp;First-class Scholarship in Wuhan University (**Top 5%**). 
 
 # 📖 Educations
 - *2023.09 - 2026.03 (now)*, Master, Zhejiang University. 
@@ -77,4 +77,4 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/cours/supervision/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/).
+- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/cours/supervision/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
