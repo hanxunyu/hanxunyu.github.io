@@ -22,7 +22,9 @@ Hello! I am currently a 2nd-year master student in <a href="https://www.zju.edu.
 My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understanding* and *Embodied AI*, particularly in:
 
 **_1.Enabling MLLMs with common visual tasks_**, including open-vocabulary visual grounding for image/video/3D scene.
-**_2.Embodied scene understanding&reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
+
+**_2.Embodied scene understanding & reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
+
 **_3.Efficient and effective MLLMs_**, including token reduction and lightweight MLLM.
 
 
