@@ -52,6 +52,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
 </div>
 </div>
+<div style="margin-top: -15px">
 <ul>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,6 +63,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
   <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;" <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
+</div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
