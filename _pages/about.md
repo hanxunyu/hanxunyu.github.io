@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am currently a 2nd-year master student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>. majoring in Artifical Intelligence supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern in-person at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a remote visit student at <a href="https://slsp.kaist.ac.kr/xe/" target="_blank">KAIST</a>, Korea, supervised by <a href="https://ee.kaist.ac.kr/en/professor/12229/" target="_blank">Prof. Chang D. Yoo</a>.
+Hello! I am currently a 2nd-year master student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>, majoring in Artifical Intelligence supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern in-person at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a remote visit student at <a href="https://slsp.kaist.ac.kr/xe/" target="_blank">KAIST</a> in Korea, supervised by <a href="https://ee.kaist.ac.kr/en/professor/12229/" target="_blank">Prof. Chang D. Yoo</a>.
 
 My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understanding* and *Embodied AI*, particularly in:
 
 **_1.Enabling MLLMs with common visual tasks_**, including open-vocabulary visual grounding for image/video/3D scene.
 
-**_2.Embodied scene understanding & reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
+**_2.Embodied scene understanding &amp; reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
 
 **_3.Efficient and effective MLLMs_**, including token reduction and lightweight MLLM.
 
@@ -55,11 +55,11 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <div style="margin-top: -15px">
 <ul>
   <li>
-  <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger;" <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a>
   </li>
   <li>
-  <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;" <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
