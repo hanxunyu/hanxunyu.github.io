@@ -32,8 +32,8 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024!. 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!. 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
 - *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
 - *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 
@@ -77,7 +77,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/cours/supervision/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
 - Conference Reviewer: CVPR 2025; AAAI 2025; ACM MM 2023,2024
