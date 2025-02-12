@@ -38,7 +38,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 - *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 
 # 📝 Publications 
-<strong>*: co-first authors, &dagger;:corresponding authors</strong>
+*: co-first authors, &dagger;:corresponding authors
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
