@@ -57,7 +57,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
   </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div>
-  <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;"
+  <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks </a> "Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger;" <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[**PDF**]</a>
   </li>
 </ul>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
