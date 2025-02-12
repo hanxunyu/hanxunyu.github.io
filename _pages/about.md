@@ -50,17 +50,18 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/abstract/document/10602786)
-
-Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, **Hanxun Yu**, Zhubo Li, Shin'ichi Satoh, Zheng Wang
-
-<div class="badge">TPAMI 2024</div>
-
-- A comprehensive survey that systematically reviews and analyzes physical adversarial attacks in computer vision over the past decade.
-</div>
-</div>
+<ul>
+  <li>
+  ::marker
+  <code class="language-plaintext highlighter-touge">
+  ::before
+  "TPAMI 2024"
+  ::after
+  </code>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang"
+  </li>
+</ul>
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
