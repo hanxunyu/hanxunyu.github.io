@@ -39,7 +39,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 # 📝 Publications 
 <strong>*: Co-first authors</strong> 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
@@ -55,7 +55,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
   <!-- <code class="language-plaintext highlighter-touge">
   TPAMI 2024
   </code> -->
-  <div class="badge">TPAMI 2024</div>
+  <div class="badge">TPAMI 2024</div> &nbsp;
   <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang"
   </li>
 </ul>
