@@ -38,7 +38,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 - *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 
 # 📝 Publications 
-<strong>*: Co-first authors, &dagger;:Corresponding authors</strong>
+<strong>*: co-first authors, &dagger;:corresponding authors</strong>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +53,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <ul>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger;" <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[**Paper**] <a href="https://github.com/weihui1308/PAA" target="_blank">[**Code**]</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey </a> "Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger;" <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[**Paper**]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[**Code**]</a>
   </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div>
