@@ -32,20 +32,24 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024!. 
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!. 
+- *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
+- *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hui Wei*, **Hanxun Yu***, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
+
+and firstly propose a novel backdoor trigger by exploiting the physical Moiré effect, which demonstrates the effectiveness and efficacy in both digital and physical spaces. 
 </div>
 </div>
 
