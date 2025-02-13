@@ -40,20 +40,7 @@ I am currently seeking a research internship opportunity. Please feel free to em
 - *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 
 # 📝 Publications 
-<div style="margin-bottom: -20px">*: co-first authors, &dagger;:corresponding authors</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
-
-Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang&dagger;
-
-<a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank">[**Paper**]</a> <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank">[**Code**]</a>
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-- This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
-</div>
-</div>
+<div style="margin-bottom: -20px">*: co-first authors, &dagger;: corresponding authors</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
