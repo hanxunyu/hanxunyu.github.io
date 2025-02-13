@@ -39,7 +39,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 # 📝 Publications 
 <div style="margin-bottom: -20px">*: co-first authors, &dagger;:corresponding authors</div>
-<div class='paper-box' style="margin-bottom: 0px"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="140%"></div></div>
+<div class='paper-box' style="margin-bottom: 0px"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
@@ -55,11 +55,11 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <div style="margin-top: 0px">
 <ul>
   <li>
-  <div class="badge" style="display: inline-block; margin-right: 48px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="badge" style="display: inline-block; margin-right: 0px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey, </a> &nbsp;Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang&dagger; &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a>
   </li>
   <li>
-  <div class="badge" style="display: inline-block; margin-right: 48px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger; &nbsp;<a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
