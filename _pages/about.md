@@ -39,7 +39,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 # 📝 Publications 
 <div style="margin-bottom: -20px">*: co-first authors, &dagger;:corresponding authors</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-bottom: -20px"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
