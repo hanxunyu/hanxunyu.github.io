@@ -29,8 +29,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 I am currently seeking a research internship opportunity. Please feel free to email at <a href="mailto:hanxun.yu@zju.edu.cn" target="_blank">hanxun.yu@zju.edu.cn</a>.
 
-<!-- <a href='../assets/xiehaiyang_cv_cn.pdf'>CV<strong></strong></a> -->
-<a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>CV</strong></a>
+<a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -55,6 +54,19 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
 </div>
 </div>
+<div class='paper-box' style="margin-bottom: 0px"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="padding-bottom: -50px;" markdown="1">
+
+[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
+
+Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang&dagger;
+
+<a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank">[**Paper**]</a> <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank">[**Code**]</a>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
+</div>
+</div>
 <div style="margin-top: 0px">
 <ul>
   <li>
@@ -63,7 +75,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
   </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger; &nbsp;<a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
+  <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang&dagger; &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
 </div>
@@ -83,7 +95,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="https://github.com/hanxunyu/hanxunyu.github.io/blob/main/assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+- *2022.06 - 2022.10*, [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
 - Conference Reviewer: CVPR 2025, AAAI 2025, ACM MM 2023-2024
