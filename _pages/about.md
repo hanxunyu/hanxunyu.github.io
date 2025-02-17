@@ -39,6 +39,7 @@ I am currently seeking a long-term research internship opportunity. If you are i
 - *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
 - *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
 <!-- , &dagger;: corresponding authors -->
+
 # 📝 Publications 
 <div style="margin-bottom: -10px">*: co-first authors</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
