@@ -25,7 +25,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 **_2.Embodied scene understanding/reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
 
-**_3.Efficient and effective MLLMs_**, including visual token reduction and lightweight MLLM.
+**_3.Efficient and effective MLLMs_**, including visual token compression and lightweight MLLM.
 
 I am currently seeking a research internship opportunity. Please feel free to email at <a href="mailto:hanxun.yu@zju.edu.cn" target="_blank">hanxun.yu@zju.edu.cn</a>.
 
