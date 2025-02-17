@@ -78,7 +78,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2020,2021,2022* &nbsp;First-class Scholarship in Wuhan University (**Top 5%**). 
 
 # 📖 Educations
-- *2023.09 - 2026.03 (now)*, Master, Zhejiang University. 
+- *2023.09 - now*, Master, Zhejiang University. 
 - *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
