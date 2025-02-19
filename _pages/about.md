@@ -75,7 +75,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2023* &nbsp;The National Scholarship, China. (**Top 2%**) 
 - *2023* &nbsp;Outstanding Undergraduate Dissertation Award, Wuhan University. 
 - *2023* &nbsp;Outstanding Graduate, Wuhan University. 
-- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship, China. (**200/year nationwide**) 
+- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship, China. (**200/year Nationwide**) 
 - *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University. (**Top 5%**) 
 
 # 📖 Educations
