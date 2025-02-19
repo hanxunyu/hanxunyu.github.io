@@ -72,11 +72,11 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 # 🎖 Honors and Awards
 - *2024* &nbsp;The Chiang Chen Scholarship, China. 
 - *2024* &nbsp;The First Prize of Excellent Graduate Scholarship, Zhejiang University. 
-- *2023* &nbsp;The National Scholarship, China. (**Top 2%**). 
+- *2023* &nbsp;The National Scholarship, China (**Top 2%**). 
 - *2023* &nbsp;Outstanding Undergraduate Dissertation Award, Wuhan University. 
 - *2023* &nbsp;Outstanding Graduate, Wuhan University. 
-- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship, China. (200/year nationwide). 
-- *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University. (**Top 5%**). 
+- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship, China (**200/year nationwide**). 
+- *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University (**Top 5%**). 
 
 # 📖 Educations
 - *2023.09 - now*, Master, Zhejiang University. 
