@@ -70,13 +70,13 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024* &nbsp;Chiang Chen Scholarship. 
-- *2024* &nbsp;First-class Scholarship in Zhejiang University. 
-- *2023* &nbsp;National Scholarship (**Top 2%**). 
-- *2023* &nbsp;Outstanding Undergraduate Dissertation Award of Wuhan University. 
-- *2023* &nbsp;Outstanding Graduate of Wuhan University. 
-- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship (200/year nationwide). 
-- *2020,2021,2022* &nbsp;First-class Scholarship in Wuhan University (**Top 5%**). 
+- *2024* &nbsp;The Chiang Chen Scholarship, China. 
+- *2024* &nbsp;The First Prize of Excellent Graduate Scholarship, Zhejiang University. 
+- *2023* &nbsp;The National Scholarship, China. (**Top 2%**). 
+- *2023* &nbsp;Outstanding Undergraduate Dissertation Award, Wuhan University. 
+- *2023* &nbsp;Outstanding Graduate, Wuhan University. 
+- *2022* &nbsp;Mitacs-CSC Globalink Research Internship Scholarship, China. (200/year nationwide). 
+- *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University. (**Top 5%**). 
 
 # 📖 Educations
 - *2023.09 - now*, Master, Zhejiang University. 
