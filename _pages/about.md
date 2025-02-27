@@ -79,7 +79,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
   </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*<strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
+  <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
 </div>
