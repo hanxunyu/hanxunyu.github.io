@@ -34,6 +34,7 @@ I am currently seeking a long-term research internship opportunity. If you are i
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025. 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
 - *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
@@ -42,6 +43,20 @@ I am currently seeking a long-term research internship opportunity. If you are i
 
 # 📝 Publications 
 <div style="margin-bottom: -10px">*: co-first authors</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
+
+<strong>Hanxun Yu*</strong>, Wentong Li*, Song Wang, Junbo Chen, Jianke Zhu
+
+<a href="../assets/CVPR2025_GitHub.pdf" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- This paper proposes an effective instance-aware Large Multi-modal Model for 3D scene understanding. We develop a MCMF module for 2D/3D cross-modal feature fusion to generate fine-grained instance-level tokens and a 3D-ISR module to capture the intricate spatial relations among objects to generate informative scene-level tokens. Our Inst3D-LMM requires fewer computational resources while offering better efficiency. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +70,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models, enabling individuals wearing clothes with Moiré patterns to evade detection in the real world while maintaining considerable stealthiness.
 </div>
 </div>
+
 <div style="margin-top: 17px">
 <ul>
   <li>
