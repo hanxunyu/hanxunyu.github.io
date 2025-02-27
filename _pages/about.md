@@ -42,7 +42,7 @@ I am currently seeking a long-term research internship opportunity. If you are i
 <!-- , &dagger;: corresponding authors -->
 
 # 📝 Publications 
-<div style="margin-bottom: -10px">* indicates equal contribution.</div>
+<div style="margin-bottom: -10px">* indicates equal contribution</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
