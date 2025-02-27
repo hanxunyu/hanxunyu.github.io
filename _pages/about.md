@@ -53,7 +53,7 @@ I am currently seeking a long-term research internship opportunity. If you are i
 <a href="../assets/CVPR2025_GitHub.pdf" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- This paper proposes an effective instance-aware Large Multi-modal Model for 3D scene understanding. We develop a MCMF module for 2D/3D cross-modal feature fusion to generate fine-grained instance-level tokens and a 3D-ISR module to capture the intricate spatial relations among objects to generate informative scene-level tokens. Our Inst3D-LMM requires fewer computational resources while offering better efficiency. 
+- This paper proposes an effective instance-aware Large Multi-modal Model for 3D scene understanding. We develop a MCMF module for 2D/3D cross-modal feature fusion to generate fine-grained instance-level tokens and a 3D-ISR module to capture the intricate spatial relations among objects to generate informative scene-level tokens. Our Inst3D-LMM requires fewer computational resources while offering faster training and inference speeds. 
 </div>
 </div>
 
