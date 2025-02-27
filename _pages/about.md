@@ -48,7 +48,7 @@ I am currently seeking a long-term research internship opportunity. If you are i
 
 [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
 
-**Hanxun Yu***, Wentong Li*, Song Wang, Junbo Chen, Jianke Zhu
+**Hanxun Yu**\*\*, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
 <a href="../assets/CVPR2025_GitHub.pdf" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
