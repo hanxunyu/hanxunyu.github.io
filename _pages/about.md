@@ -102,8 +102,8 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) and [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
-- *2021.12 - 2022.02*, [KAIST](https://www.kaist.ac.kr/en/), Montreal, Daejeon, Korea, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+- *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) and [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Prof. Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+- *2021.12 - 2022.02*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea, advised by [Prof. Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
-- Conference Reviewer: CVPR 2025, AAAI 2025, ACM MM 2023-2024
+- Conference Reviewer: ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2024
