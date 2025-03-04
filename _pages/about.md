@@ -29,7 +29,8 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 I am currently seeking a long-term research internship opportunity. If you are interested in collaborating with me, please feel free to email at <a href="mailto:hanxun.yu@zju.edu.cn" target="_blank">hanxun.yu@zju.edu.cn</a>.
 
-<a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>
+<!-- <a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>Curriculum Vitae</strong></a> -->
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
