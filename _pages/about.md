@@ -46,13 +46,13 @@ I am currently seeking a long-term research internship opportunity. If you are i
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
+[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](https://arxiv.org/pdf/2503.00513)
 
 <span style="color:red;">Rating Score: 5/5/4</span>
 
 **Hanxun Yu\***, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
-<a href="../assets/CVPR2025_GitHub.pdf" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
+<a href="https://arxiv.org/pdf/2503.00513" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper proposes an effective instance-aware Large Multi-modal Model for 3D scene understanding. We develop a MCMF module for 2D/3D cross-modal feature fusion, which generates fine-grained instance-level tokens, and a 3D-ISR module to capture the complex spatial relationships among objects, producing informative scene-level tokens. Our Inst3D-LMM is designed to require fewer computational resources, while delivering faster training and inference speeds. 
