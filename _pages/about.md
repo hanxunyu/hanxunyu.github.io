@@ -27,9 +27,9 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 **_3.Efficient and effective MLLMs_**, including visual token compression and lightweight MLLM.
 
-I am currently seeking a long-term research internship opportunity. If you are interested in collaborating with me, please feel free to email at <a href="mailto:hanxun.yu@zju.edu.cn" target="_blank">hanxun.yu@zju.edu.cn</a>.
+If you are interested in collaborating with me, please feel free to email at <a href="mailto:hanxun.yu@zju.edu.cn" target="_blank">hanxun.yu@zju.edu.cn</a>.
 
-<a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>
+<!-- <a href="../assets/CV_CN_hanxun.pdf" target="_blank"><strong>Curriculum Vitae</strong></a> -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DruMxKYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -104,4 +104,4 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) and [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
-- Conference Reviewer: CVPR 2025, AAAI 2025, ACM MM 2023-2024
+- Conference Reviewer: ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2024
