@@ -46,7 +46,7 @@ If you are interested in collaborating with me, please feel free to email at <a 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
+[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf) CVPR 2025.
 
 <span style="color:red;">Rating Score: 5/5/4</span>
 
@@ -62,7 +62,7 @@ If you are interested in collaborating with me, please feel free to email at <a 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
+[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910) ACM MM 2023.
 
 Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
