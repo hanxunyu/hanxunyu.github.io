@@ -34,7 +34,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025. 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 (Highlight). 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
 - *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
@@ -48,7 +48,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
 
-<span style="color:red;">Rating Score: 5/5/4</span>
+<span style="color:red;">Highlight, 2.7% (Rating Score: 5/5/4)</span>
 
 **Hanxun Yu\***, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
