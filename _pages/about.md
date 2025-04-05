@@ -48,7 +48,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](../assets/CVPR2025_GitHub.pdf)
 
-<span style="color:red;">Highlight, 3.0% (Rating Score: 5/5/4)</span>
+<span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span>
 
 **Hanxun Yu\***, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
