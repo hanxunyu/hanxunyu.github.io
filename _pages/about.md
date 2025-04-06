@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am currently a student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>, majoring in Artifical Intelligence supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern in-person at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a remote visit student at <a href="https://sanctusfactory.com/u-aim/" target="_blank">KAIST</a> in Korea, supervised by <a href="https://sanctusfactory.com/family.php" target="_blank">Prof. Chang D. Yoo</a>.
+Hello! I am currently a student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>, majoring in Artifical Intelligence supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern in-person at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a remote visit student at <a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a> in Daejeon, Korea, supervised by <a href="https://sanctusfactory.com/family.php" target="_blank">Prof. Chang D. Yoo</a>.
 
 My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understanding* and *Embodied AI*, particularly in:
 
@@ -102,6 +102,6 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 
 # 💻 Internships
 - *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) and [Mila-Quebec AI Institute](https://mila.quebec/en/), Montreal, Canada, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
-
+- *2021.12 - 2022.02*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 # 💬 Academic Services
 - Conference Reviewer: ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2024
