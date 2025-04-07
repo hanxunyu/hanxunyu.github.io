@@ -34,7 +34,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 Highlight. (2.9% 387/13008) 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 **Highlight**. (2.9%, 387/13008) 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
 - *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
