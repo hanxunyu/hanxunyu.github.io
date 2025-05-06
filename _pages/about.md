@@ -105,4 +105,5 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2021.12 - 2022.02*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
+- Journal Reviewer: IEEE TPAMI
 - Conference Reviewer: ICCV 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2024
