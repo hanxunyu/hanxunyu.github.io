@@ -37,8 +37,8 @@ If you are interested in any form of academic cooperation with me, please feel f
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 **Highlight**. (2.9%, 387/13008) 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
-- *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University (**Top 2%**). 
-- *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program (in Canada). 
+- *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University. (**Top 2%**)
+- *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program. (**200/year Nationwide**)
 <!-- , &dagger;: corresponding authors -->
 
 # 📝 Publications 
@@ -105,4 +105,5 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2021.12 - 2022.02*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
-- Conference Reviewer: ICCV 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2024
+- Journal Reviewer: IEEE TPAMI
+- Conference Reviewer: ICCV 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2025
