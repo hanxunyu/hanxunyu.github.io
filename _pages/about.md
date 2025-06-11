@@ -97,7 +97,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University.
 
 # 📖 Educations
-- <img src='images/zju.png' style='width: 5.3em;'> *2023.09 - now*, Zhejiang University. 
+- <img src='images/zju.png' style='width: 5em;'> *2023.09 - now*, Zhejiang University. 
 - <img src='images/whu.png' style='width: 5em;'> *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
