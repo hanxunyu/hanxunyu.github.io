@@ -43,7 +43,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 # 📝 Publications 
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='images/CVPR25_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf)
