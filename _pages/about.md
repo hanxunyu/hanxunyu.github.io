@@ -102,7 +102,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 
 # 💻 Internships
 - *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) <img src='images/mcgill.png' style='width: 6em;'> and [Mila-Quebec AI Institute](https://mila.quebec/en/) <img src='images/mila.png' style='width: 5em;'>, Montreal, Canada, Research Intern, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
-- *2021.12 - 2022.02*, [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea, Research Intern, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+- *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea, Research Intern, advised by [Chang D. Yoo](https://sanctusfactory.com/family.php). <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
