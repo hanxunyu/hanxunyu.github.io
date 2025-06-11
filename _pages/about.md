@@ -97,8 +97,8 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 - *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University.
 
 # 📖 Educations
-- *2023.09 - now*, <img src='images/zju.png' style='width: 6em;'> Zhejiang University. 
-- *2019.09 - 2023.06*, <img src='images/whu.png' style='width: 6em;'> Bachelor (with Honors), Wuhan University. 
+- <img src='images/zju.png' style='width: 6em;'> *2023.09 - now*, Zhejiang University. 
+- <img src='images/whu.png' style='width: 6em;'> *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
 - *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) <img src='images/mcgill.png' style='width: 6em;'> and [Mila-Quebec AI Institute](https://mila.quebec/en/) <img src='images/mila.png' style='width: 6em;'>, Montreal, Canada, Research Intern, advised by [Xujie Si](https://www.cs.toronto.edu/~six/). <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a>
