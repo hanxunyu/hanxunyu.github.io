@@ -106,4 +106,4 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: ICCV 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2025
+- Conference Reviewer: NeurIPS 2025, ICCV 2025, ACL 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2025
