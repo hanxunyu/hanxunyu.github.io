@@ -77,7 +77,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TMM22_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physical Adversarial Attack meets Computer Vision: A Decade Survey.](https://ieeexplore.ieee.org/abstract/document/10602786)
@@ -93,14 +93,31 @@ Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo 
 </div>
 </div>
 
-<div style="margin-top: 17px">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks. </a>
+
+Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang
+
+**_Preprint_**
+
+<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- This paper propose an end-to-end network to transform arbitrary input images into adversarial patches for successful physical attacks.
+</div>
+</div>
+
+
+<!-- <div style="margin-top: 17px">
 <ul>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
   </li>
 </ul>
-</div>
+</div> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
