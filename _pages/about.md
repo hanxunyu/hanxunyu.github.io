@@ -135,8 +135,8 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 - <img src='images/whu.png' style='width: 5em;'> *2019.09 - 2023.06*, Bachelor (with Honors), Wuhan University. 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) <img src='images/mcgill.png' style='width: 6em;'> and [Mila-Quebec AI Institute](https://mila.quebec/en/) <img src='images/mila.png' style='width: 5em;'>, Montreal, Canada.  <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Xujie Si](https://www.cs.toronto.edu/~six/)</br>Research Intern (Undergraduate)
-- *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea. <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a></br>Supervisor: Prof. [Chang D. Yoo](https://sanctusfactory.com/family.php)</br>Research Intern (Undergraduate)
+- *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) <img src='images/mcgill.png' style='width: 6em;'> and [Mila-Quebec AI Institute](https://mila.quebec/en/) <img src='images/mila.png' style='width: 5em;'>, Montreal, Canada.  <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Xujie Si](https://www.cs.toronto.edu/~six/)<br>Research Intern (Undergraduate)
+- *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea. <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Chang D. Yoo](https://sanctusfactory.com/family.php)<br>Research Intern (Undergraduate)
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
