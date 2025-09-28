@@ -52,7 +52,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **Hanxun Yu\***, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
-_CVPR_, 2025 <strong><span style="color:red;">(Highlight, Top 2.9%)</span></strong>
+**_CVPR_, 2025** <strong><span style="color:red;">(Highlight, Top 2.9%)</span></strong>
 
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank"> [<strong>Paper</strong>] </a> | <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -68,7 +68,7 @@ _CVPR_, 2025 <strong><span style="color:red;">(Highlight, Top 2.9%)</span></stro
 
 Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
-_ACM MM_, 2023
+**_ACM MM_, 2023**
 
 <a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a> | <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -84,7 +84,7 @@ _ACM MM_, 2023
 
 Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
 
-_IEEE TPAMI_, 2024
+**_IEEE TPAMI_, 2024**
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> | <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
