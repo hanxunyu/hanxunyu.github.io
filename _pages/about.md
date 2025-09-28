@@ -139,7 +139,9 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
   Supervisor: Prof. [Xujie Si](https://www.cs.toronto.edu/~six/)
   Research Intern (Undergraduate)
 - *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea. <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a>
+  
   Supervisor: Prof. [Chang D. Yoo](https://sanctusfactory.com/family.php)
+  
   Research Intern (Undergraduate)
 
 # 💬 Academic Services
