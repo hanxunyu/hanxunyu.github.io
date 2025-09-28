@@ -55,6 +55,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 _CVPR_, 2025 <span style="color:red;">(Highlight, Top 2.9%)</span>
 
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank"> Paper </a> | <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> Code </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper proposes an effective instance-aware Large Multi-modal Model for multi-task 3D scene understanding. 
 </div>
@@ -71,6 +72,7 @@ _ACM MM_, 2023
 
 <a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank"> Paper </a> | <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> Code </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
 
+
 - This paper focuses on AI safety-critical tasks and firstly integrates Moiré-based triggers into pedestrian detection models.
 </div>
 </div>
@@ -85,6 +87,7 @@ Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo 
 _IEEE TPAMI_, 2024
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Paper</a> | <a href="https://github.com/weihui1308/PAA" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
+
 
 - This survey aims to summarize, evaluate, and analyze existing physical adversarial attack methods, providing insights for the development of trustworthy AI.
 </div>
