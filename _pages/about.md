@@ -43,6 +43,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 # 📝 Publications 
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
+<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='images/CVPR25_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
