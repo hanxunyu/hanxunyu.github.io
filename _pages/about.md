@@ -48,14 +48,16 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf)
 
-<span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span>
+<!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
 **Hanxun Yu\***, Wentong Li\*, Song Wang, Junbo Chen, Jianke Zhu
 
-<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank">[**Paper**]</a> <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank">[**Code**]</a>
+_CVPR_, 2025 <span style="color:red;">(Highlight, Top 2.9%)</span>
+
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank"> Paper </a> | <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> Code </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- This paper proposes an effective instance-aware Large Multi-modal Model for 3D scene understanding. We develop a MCMF module for 2D/3D cross-modal feature fusion, which generates fine-grained instance-level tokens, and a 3D-ISR module to capture the complex spatial relationships among objects, producing informative scene-level tokens. Our Inst3D-LMM is designed to require fewer computational resources, while delivering faster training and inference speeds. 
+- This paper proposes an effective instance-aware Large Multi-modal Model for multi-task 3D scene understanding. 
 </div>
 </div>
 
@@ -66,19 +68,31 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
-<a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank">[**Paper**]</a> <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank">[**Code**]</a>
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+_ACM MM_, 2023
 
-- This paper focuses on AI safety-critical tasks and introduces the Moiré Backdoor Attack (MBA), which firstly integrates Moiré-based triggers into pedestrian detection models. Our MBA approach enables individuals wearing clothes with Moiré patterns to evade detection in the real world scenarios, while maintaining considerable stealthiness.
+<a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank">Paper</a> | <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
+
+- This paper focuses on AI safety-critical tasks and firstly integrates Moiré-based triggers into pedestrian detection models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physical Adversarial Attack meets Computer Vision: A Decade Survey.](https://ieeexplore.ieee.org/abstract/document/10602786)
+
+Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
+
+_IEEE TPAMI_, 2024
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Paper</a> | <a href="https://github.com/weihui1308/PAA" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
+
+- This survey aims to summarize, evaluate, and analyze existing physical adversarial attack methods, providing insights for the development of trustworthy AI.
 </div>
 </div>
 
 <div style="margin-top: 17px">
 <ul>
-  <li>
-  <div class="badge" style="display: inline-block; margin-right: 0px;">TPAMI 2024</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">Physical Adversarial Attack meets Computer Vision: A Decade Survey, </a> &nbsp;Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Zheng Wang &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a>
-  </li>
   <li>
   <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
@@ -106,4 +120,4 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: NeurIPS 2025, ICCV 2025, ACL 2025, ICML 2025, CVPR 2025, AAAI 2025, ACM MM 2023-2025
+- Conference Reviewer: ICLR 2026, NeurIPS 2025, ICCV 2025, ACL 2025, ICML 2025, CVPR 2025, AAAI 2025-2026, ACM MM 2023-2025
