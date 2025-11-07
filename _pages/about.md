@@ -65,13 +65,13 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.](https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910)
+[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.](https://dl.acm.org/doi/abs/10.1145/3581783.3611910)
 
 Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
 **_ACM MM_, 2023**
 
-<a href="https://web.archive.org/web/20231028032552id_/https://dl.acm.org/doi/pdf/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
+<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper focuses on AI safety-critical tasks and firstly integrates Moiré-based triggers into pedestrian detection models.
