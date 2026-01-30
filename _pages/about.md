@@ -100,22 +100,6 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/abstract/document/10602786)
-
-Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
-
-**_IEEE TPAMI_ 2024**
-
-<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-- This survey aims to summarize existing physical adversarial attack methods, providing insights toward the development of trustworthy AI systems.
-</div>
-</div>
-
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMM22_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,6 +157,21 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 <a href="https://arxiv.org/abs/2512.12560" target="_blank"> [<strong>Paper</strong>] </a>
 
 - A token pruning method designed to reduce both spatial and temporal redundancy in online video understanding.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/abstract/document/10602786)
+
+Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
+
+**_IEEE TPAMI_ 2024**
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
+
+- This survey aims to summarize existing physical adversarial attack methods, providing insights toward the development of trustworthy AI systems.
 </div>
 </div>
 
