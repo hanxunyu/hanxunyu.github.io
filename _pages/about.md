@@ -148,7 +148,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 - *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University.
 
 # 📖 Educations
-- <img src='images/zju.png' style='width: 5em;'> *2023.09 - now*, Zhejiang University. 
+- <img src='images/zju.png' style='width: 5em;'> *2023.09 - now*, Ph.D, Zhejiang University. 
 - <img src='images/whu.png' style='width: 5em;'> *2019.09 - 2023.06*, B.Eng. (with Honors), Wuhan University. 
 
 # 💻 Internships
@@ -157,4 +157,4 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: ICLR 2026, NeurIPS 2025, ICCV 2025, ACL 2025, ICML 2025, CVPR 2025, AAAI 2025-2026, ACM MM 2023-2025
+- Conference Reviewer: ECCV 2026, ICLR 2026, ICML 2025-2026, CVPR 2025-2026, ACM MM 2023-2024
