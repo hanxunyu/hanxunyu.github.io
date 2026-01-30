@@ -125,7 +125,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 </ul>
 </div> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-# 📖 Other Publications
+# 📚 Other Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/N3D-VLM.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
