@@ -96,7 +96,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- This paper focuses on AI safety-critical tasks and innovatively integrates moiré-based backdoor attack triggers into pedestrian detection models.
+- This paper focuses on AI safety-critical tasks and innovatively proposes moiré-based backdoor attack triggers into pedestrian detection models.
 </div>
 </div>
 
