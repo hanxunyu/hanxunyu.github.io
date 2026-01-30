@@ -34,12 +34,16 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 **Highlight**. (2.9%, 387/13008) 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
-- *2023.06*: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University. (**Top 2%**)
-- *2022.06*: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program. (**200/year Nationwide**)
+<div style="max-height: 150px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; margin-bottom: 10px;">
+<ul>
+  <li><em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.</li>
+  <li><em>2025.02</em>: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 <strong>Highlight</strong>. (2.9%, 387/13008)</li>
+  <li><em>2024.07</em>: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024.</li>
+  <li><em>2023.07</em>: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023.</li>
+  <li><em>2023.06</em>: &nbsp;🎉🎉 I won the National Scholarship at Wuhan University. (<strong>Top 2%</strong>)</li>
+  <li><em>2022.06</em>: &nbsp;🎉🎉 Accepted to the Mitacs Globalink Research Internship 2022 program. (<strong>200/year Nationwide</strong>)</li>
+</ul>
+</div>
 <!-- , &dagger;: corresponding authors -->
 
 # 📝 Publications 
