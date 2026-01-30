@@ -34,7 +34,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
-<div style="max-height: 160px; overflow-y: auto; border: 1px solid rgba(225, 228, 232, 0.8); background-color: rgba(225, 228, 232, 0.3); border-radius: 10px; padding: 10px; margin-bottom: 30px;">
+<div style="max-height: 160px; overflow-y: auto; border: 1px solid rgba(225, 228, 232, 0.8); background-color: rgba(225, 228, 232, 0.1); border-radius: 10px; padding: 10px; margin-bottom: 30px;">
 <ul>
   <li><em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.</li>
   <li><em>2025.02</em>: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 <strong>Highlight</strong>. (2.9%, 387/13008)</li>
@@ -141,6 +141,40 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 </ul>
 </div> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+# 📖 Other Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/N3D-VLM.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://n3d-vlm.github.io/)
+
+<!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
+
+Yuxin Wang, Lei Ke, Boqiang Zhang, Tianyuan Qu, **Hanxun Yu**, Zhenpeng Huang, Meng Yu, Dan Xu, Dong Yu
+
+**arXiv 2025**
+
+<a href="https://n3d-vlm.github.io/" target="_blank"> [<strong>Project</strong>] </a><a href="https://arxiv.org/abs/2512.16561" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/W-Ted/N3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/W-Ted/N3D-VLM?style=social" />
+
+- A unified framework that empowers native 3D grounding to enable accurate spatial reasoning in Vision-Language Models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/streamingassistant.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StreamingAssistant: Efficient Visual Token Pruning for Accelerating Online Video Understanding](https://arxiv.org/abs/2512.12560)
+
+<!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
+
+Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pei, Huan Wang, Fan Dang, Jiangchuan Liu, Weiqiang Wang
+
+**arXiv 2025**
+
+<a href="https://arxiv.org/abs/2512.12560" target="_blank"> [<strong>Paper</strong>] </a>
+
+- A token pruning method designed to reduce both spatial and temporal redundancy in online video understanding.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024* &nbsp;The Chiang Chen Scholarship, China. 
