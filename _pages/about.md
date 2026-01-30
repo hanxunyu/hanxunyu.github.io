@@ -34,7 +34,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
-<div style="max-height: 150px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; margin-bottom: 10px;">
+<div style="max-height: 150px; overflow-y: auto; padding: 10px; margin-bottom: 10px;">
 <ul>
   <li><em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.</li>
   <li><em>2025.02</em>: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 <strong>Highlight</strong>. (2.9%, 387/13008)</li>
