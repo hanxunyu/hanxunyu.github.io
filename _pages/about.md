@@ -46,7 +46,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration]()
