@@ -34,6 +34,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 **Highlight**. (2.9%, 387/13008) 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023. 
@@ -44,10 +45,28 @@ If you are interested in any form of academic cooperation with me, please feel f
 # 📝 Publications 
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration]()
+
+<!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
+
+**Hanxun Yu**, Wentong Li, Xuan Qu, Song Wang, Junbo Chen, Jianke Zhu
+
+**_ICLR_ 2026**
+
+<a href="" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" />
+
+- This paper proposes a unified vision token compression framework with two modules, Dominant Vision Token Selection (DVTS) and Text-Guided Vision Complement (TGVC). 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='images/CVPR25_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning.](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf)
+[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf)
 
 <!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
@@ -56,7 +75,6 @@ If you are interested in any form of academic cooperation with me, please feel f
 **_CVPR_ 2025** <strong><span style="color:red;">(Highlight, Top 2.9%)</span></strong>
 
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper proposes an effective instance-aware Large Multi-modal Model for multi-task 3D scene understanding. 
 </div>
@@ -65,7 +83,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.](https://dl.acm.org/doi/abs/10.1145/3581783.3611910)
+[Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World](https://dl.acm.org/doi/abs/10.1145/3581783.3611910)
 
 Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang
 
@@ -81,7 +99,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physical Adversarial Attack meets Computer Vision: A Decade Survey.](https://ieeexplore.ieee.org/abstract/document/10602786)
+[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/abstract/document/10602786)
 
 Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
 
@@ -94,7 +112,7 @@ Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMM22_pipeline.png' alt="sym" width="85%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMM22_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks. </a>
@@ -104,11 +122,10 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 **_Preprint_**
 
 <a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper propose an end-to-end network to transform arbitrary input images into adversarial patches for successful physical attacks.
 </div>
-</div>
+</div> -->
 
 
 <!-- <div style="margin-top: 17px">
