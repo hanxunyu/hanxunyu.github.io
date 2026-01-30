@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am currently a PhD student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>, majoring in Artifical Intelligence supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng. (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a visit student at <a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a> in Daejeon, Korea, supervised by <a href="https://sanctusfactory.com/family.php" target="_blank">Prof. Chang D. Yoo</a>.
+Hello! I am currently a PhD student in <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University (浙江大学)</a>, majoring in Computer Science and Technology supervised by <a href="https://person.zju.edu.cn/jkzhu" target="_blank">Prof. Jianke Zhu</a>. I have obtained B.Eng. (with Honors) from <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University (武汉大学)</a> majoring in Computer Science and Technology supervised by <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang </a>. I used to be a summer research intern at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/en/" target="_blank">Mila-Quebec AI Institute</a> in Montreal, Canada, under the supervision of <a href="https://www.cs.toronto.edu/~six/" target="_blank">Prof. Xujie Si</a>. Prior to that, I was a visit student at <a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a> in Daejeon, Korea, supervised by <a href="https://sanctusfactory.com/family.php" target="_blank">Prof. Chang D. Yoo</a>.
 
-My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understanding* and *Embodied AI*, particularly in:
+My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understanding*, *Spatial Intelligence*, and *Embodied AI*, particularly in:
 
 **_1.Enabling MLLMs with common visual tasks_**, including open-vocabulary visual grounding for image/video/3D scene.
 
-**_2.Embodied scene understanding/reasoning_**, including 3D question answering, 3D dense captioning and embodied dialogue/planning.
+**_2.Embodied scene understanding/reasoning_**, including streaming 3D interaction and embodied dialogue/planning.
 
 **_3.Efficient and effective MLLMs_**, including visual token compression and lightweight MLLM.
 
@@ -46,7 +46,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration]()
