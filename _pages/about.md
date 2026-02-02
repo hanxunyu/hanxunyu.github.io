@@ -61,7 +61,8 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **_ICLR_ 2026**
 
-<a href="" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" />
+<a href="" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a>
+<!-- <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" /> -->
 
 - An efficient vision token compression framework with two modules, Dominant Vision Token Selection (DVTS) and Text-Guided Vision Complement (TGVC). 
 </div>
