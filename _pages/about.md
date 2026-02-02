@@ -156,7 +156,7 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 
 **arXiv 2025**
 
-<a href="https://arxiv.org/abs/2512.12560" target="_blank"> [<strong>Paper</strong>] </a>
+<a href="https://arxiv.org/abs/2512.12560" target="_blank"> [<strong>Paper</strong>] </a> <a href="" target="_blank"> [<strong>Code</strong>] </a>
 
 - A token pruning method designed to reduce both spatial and temporal redundancy in online video understanding.
 </div>
