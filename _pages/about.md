@@ -57,7 +57,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 <!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
-**Hanxun Yu\***, Wentong Li*, Xuan Qu*, Song Wang, Junbo Chen, Jianke Zhu
+**Hanxun Yu\***, Wentong Li\*, Xuan Qu\*, Song Wang, Junbo Chen, Jianke Zhu
 
 **_ICLR_ 2026**
 
