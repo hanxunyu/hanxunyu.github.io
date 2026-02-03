@@ -53,7 +53,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration]()
+[VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/abs/2601.22674)
 
 <!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
@@ -61,7 +61,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **_ICLR_ 2026**
 
-<a href="" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a>
+<a href="https://arxiv.org/abs/2601.22674" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a>
 <!-- <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" /> -->
 
 - An efficient vision token compression framework with two modules, Dominant Vision Token Selection (DVTS) and Text-Guided Vision Complement (TGVC). 
