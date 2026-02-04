@@ -61,8 +61,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **_ICLR_ 2026**
 
-<a href="https://arxiv.org/abs/2601.22674" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a>
-<!-- <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" /> -->
+<a href="https://arxiv.org/abs/2601.22674" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/VisionTrim" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/VisionTrim?style=social" />
 
 - An efficient vision token compression framework with two modules, Dominant Vision Token Selection (DVTS) and Text-Guided Vision Complement (TGVC). 
 </div>
@@ -94,8 +93,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 
 **_ACM MM_ 2023**
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> 
-<!-- <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" /> -->
+<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611910" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/weihui1308/Moire-Backdoor-Attack" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/weihui1308/Moire-Backdoor-Attack?style=social" />
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - This paper focuses on AI safety-critical tasks and innovatively proposes moiré-based backdoor attack triggers into pedestrian detection models.
