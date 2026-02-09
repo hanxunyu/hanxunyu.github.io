@@ -137,7 +137,7 @@ Yuxin Wang, Lei Ke, Boqiang Zhang, Tianyuan Qu, **Hanxun Yu**, Zhenpeng Huang, M
 
 **arXiv 2025**
 
-<a href="https://n3d-vlm.github.io/" target="_blank"> [<strong>Project</strong>] </a><a href="https://arxiv.org/abs/2512.16561" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/W-Ted/N3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/W-Ted/N3D-VLM?style=social" />
+<a href="https://n3d-vlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2512.16561" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/W-Ted/N3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/W-Ted/N3D-VLM?style=social" />
 
 - A unified framework that empowers native 3D grounding to enable accurate spatial reasoning in Vision-Language Models.
 </div>
@@ -194,4 +194,4 @@ Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo 
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: ECCV 2026, ICLR 2026, ICML 2025-2026, CVPR 2025-2026, ACM MM 2023-2024
+- Conference Reviewer: ECCV 2026, ICLR 2026, ICML 2025-2026, CVPR 2025-2026, ACM MM 2023
