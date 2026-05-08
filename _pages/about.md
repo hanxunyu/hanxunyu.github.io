@@ -194,4 +194,4 @@ Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo 
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: ECCV 2026, ICLR 2026, ICML 2025-2026, CVPR 2025-2026, ACM MM 2023
+- Conference Reviewer: ECCV 2026, CVPR 2025-2026, NeurIPS 2026, ICLR 2026, ICML 2025-2026
