@@ -23,7 +23,7 @@ My research interests include *2D/3D Multimodal LLMs*, *Visual/Scene Understandi
 
 **_1.Native multimodal foundation models_**, including unified 2D and 3D understanding within a single backbone.
 
-**_2.Spatial-temporal understanding with MLLMs_**, including streaming 3D interaction and embodied scene understanding.
+**_2.Spatial-temporal understanding with MLLMs_**, including streaming interaction and embodied scene understanding.
 
 **_3.Efficient and effective MLLMs_**, including visual token compression and lightweight MLLM design.
 
