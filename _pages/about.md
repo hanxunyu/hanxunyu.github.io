@@ -50,12 +50,25 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/depthvlm.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unlocking Dense Metric Depth Estimation in VLMs](https://arxiv.org/abs/2605.15876)
+
+**Hanxun Yu\***, Xuan Qu\*, Yuxin Wang, Jianke Zhu, Lei Ke
+
+**_arXiv_ 2026**
+
+<a href="https://depthvlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/DepthVLM?style=social" />
+
+- A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference compared with existing VLM-based approaches such as DepthLM and Youtu-VL.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/abs/2601.22674)
-
-<!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
 **Hanxun Yu\***, Wentong Li\*, Xuan Qu\*, Song Wang, Junbo Chen, Jianke Zhu
 
