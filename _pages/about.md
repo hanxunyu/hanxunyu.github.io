@@ -50,7 +50,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/depthvlm.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/depthvlm.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unlocking Dense Metric Depth Estimation in VLMs](https://arxiv.org/abs/2605.15876)
@@ -139,7 +139,7 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang,
 </div> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 📚 Other Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/N3D-VLM.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/N3D-VLM.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://n3d-vlm.github.io/)
@@ -156,7 +156,7 @@ Yuxin Wang, Lei Ke, Boqiang Zhang, Tianyuan Qu, **Hanxun Yu**, Zhenpeng Huang, M
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/streamingassistant.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/streamingassistant.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StreamingAssistant: Efficient Visual Token Pruning for Accelerating Online Video Understanding](https://arxiv.org/abs/2512.12560)
