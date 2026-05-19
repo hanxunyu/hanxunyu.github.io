@@ -61,7 +61,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 <a href="https://depthvlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/DepthVLM?style=social" />
 
-- A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference compared with existing VLM-based approaches such as DepthLM and Youtu-VL.
+- A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference than existing VLM-based approaches such as DepthLM and Youtu-VL.
 </div>
 </div>
 
