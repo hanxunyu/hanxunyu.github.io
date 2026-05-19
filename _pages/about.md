@@ -50,7 +50,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/depthvlm.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/depthvlm.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unlocking Dense Metric Depth Estimation in VLMs](https://arxiv.org/abs/2605.15876)
