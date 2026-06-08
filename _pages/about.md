@@ -83,7 +83,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/abs/2601.22674)
+[VisionTrim: Unified Vision Token Compression for Training-free MLLM Acceleration](https://arxiv.org/abs/2601.22674)
 
 **Hanxun Yu\***, Wentong Li\*, Xuan Qu\*, Song Wang, Junbo Chen, Jianke Zhu
 
