@@ -50,6 +50,21 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div style="margin-bottom: -10px">* indicates equal contribution</div>
 <br>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video src='images/stream3d-vlm.mp4' poster='images/stream3d-vlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://arxiv.org/abs/2606.06891)
+
+**Hanxun Yu\***, Xuan Qu\*, Lei Ke, Boqiang Zhang, Yuxin Wang, Jianke Zhu, Dong Yu
+
+**_arXiv_ 2026**
+
+<a href="https://stream3d-vlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2606.06891" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Stream3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Stream3D-VLM?style=social" />
+
+- The first online 3D vision-language model that supports real-time spatial understanding directly from streaming video, enabling efficient and continuous 3D scene comprehension through incremental geometry integration and geometry-adaptive voxel compression.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video src='images/depthvlm.mp4' poster='images/depthvlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +74,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **_arXiv_ 2026**
 
-<a href="https://depthvlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/DepthVLM?style=social" />
+<a href="https://depthvlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/DepthVLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/DepthVLM?style=social" />
 
 - A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference than existing VLM-based approaches such as DepthLM and Youtu-VL.
 </div>
@@ -83,7 +98,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='images/CVPR25_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf)
+[Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](https://arxiv.org/abs/2503.00513)
 
 <!-- <span style="color:red;">Highlight, 2.9% (Rating Score: 5/5/4)</span> -->
 
@@ -91,7 +106,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 
 **_CVPR_ 2025** <strong><span style="color:red;">(Highlight, Top 2.9%)</span></strong>
 
-<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
+<a href="https://arxiv.org/abs/2503.00513" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Inst3D-LMM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Inst3D-LMM?style=social" />
 
 - A unified and effective instance-aware 3D Large Multi-modal Model for multi-task 3D scene understanding through coupled 2D-3D modality encoding.
 </div>
@@ -113,31 +128,21 @@ Hui Wei*, <strong>Hanxun Yu*</strong>, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Z
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TMM22_pipeline.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks. </a>
+[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179)
 
-Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang
+Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
 
-**_Preprint_**
+**_IEEE TPAMI_ 2024**
 
-<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
+<a href="https://arxiv.org/abs/2209.15179" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
 
-- This paper propose an end-to-end network to transform arbitrary input images into adversarial patches for successful physical attacks.
+- This survey aims to summarize existing physical adversarial attack methods, providing insights toward the development of trustworthy AI systems.
 </div>
-</div> -->
+</div>
 
-
-<!-- <div style="margin-top: 17px">
-<ul>
-  <li>
-  <div class="badge" style="display: inline-block; margin-right: 0px;">Preprint</div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="../assets/IEEE_TMM.pdf" target="_blank">Aesthetic Yet Customizable Adversarial Patches Towards Physical Attacks, </a> &nbsp;Hui Wei*, <strong>Hanxun Yu*</strong>, Zhixiang Wang, Shin'ichi Satoh, Hao Tang, Zheng Wang &nbsp;<a href="../assets/IEEE_TMM.pdf" target="_blank">[<strong>Paper</strong>]</a>
-  </li>
-</ul>
-</div> -->
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 📚 Other Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/N3D-VLM.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,21 +175,6 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 <a href="https://arxiv.org/abs/2512.12560" target="_blank"> [<strong>Paper</strong>] </a> <a href="" target="_blank"> [<strong>Code</strong>] </a>
 
 - A token pruning method designed to reduce both spatial and temporal redundancy in online video understanding.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI24_pipeline.png' alt="sym" width="85%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/abstract/document/10602786)
-
-Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, <strong>Hanxun Yu</strong>, Zhubo Li, Shin'ichi Satoh, Luc Van Gool, Zheng Wang
-
-**_IEEE TPAMI_ 2024**
-
-<a href="https://ieeexplore.ieee.org/abstract/document/10602786" target="_blank">[<strong>Paper</strong>]</a> <a href="https://github.com/weihui1308/PAA" target="_blank">[<strong>Code</strong>]</a> <img src="https://img.shields.io/github/stars/weihui1308/PAA?style=social" />
-
-- This survey aims to summarize existing physical adversarial attack methods, providing insights toward the development of trustworthy AI systems.
 </div>
 </div>
 
