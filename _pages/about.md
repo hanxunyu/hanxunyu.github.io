@@ -36,6 +36,7 @@ If you are interested in any form of academic cooperation with me, please feel f
 # 🔥 News
 <div style="max-height: 165px; overflow-y: auto; border: 1px solid rgba(225, 228, 232, 0.8); background-color: rgba(225, 228, 232, 0.1); border-radius: 10px; padding: 10px; margin-bottom: 30px;">
 <ul>
+  <li><em>2026.06</em>: &nbsp;🎉🎉 One paper is accepted by ECCV 2026.</li>
   <li><em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.</li>
   <li><em>2025.02</em>: &nbsp;🎉🎉 One paper is accepted by CVPR 2025 <strong>Highlight</strong>. (2.9%, 387/13008)</li>
   <li><em>2024.07</em>: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2024.</li>
@@ -47,24 +48,6 @@ If you are interested in any form of academic cooperation with me, please feel f
 <!-- , &dagger;: corresponding authors -->
 
 # 📝 Selected Publications
-<div style="margin-bottom: -10px">* indicates equal contribution</div>
-<br>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video src='images/stream3d-vlm.mp4' poster='images/stream3d-vlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://arxiv.org/abs/2606.06891)
-
-**Hanxun Yu\***, Xuan Qu\*, Lei Ke, Boqiang Zhang, Yuxin Wang, Jianke Zhu, Dong Yu
-
-**_arXiv_ 2026**
-
-<a href="https://stream3d-vlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2606.06891" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Stream3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Stream3D-VLM?style=social" />
-
-- The first online 3D vision-language model that supports real-time spatial understanding directly from streaming video, enabling efficient and continuous 3D scene comprehension through incremental geometry integration and geometry-adaptive voxel compression.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video src='images/depthvlm.mp4' poster='images/depthvlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,6 +60,24 @@ If you are interested in any form of academic cooperation with me, please feel f
 <a href="https://depthvlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2605.15876" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/DepthVLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/DepthVLM?style=social" />
 
 - A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference than existing VLM-based approaches such as DepthLM and Youtu-VL.
+</div>
+</div>
+
+<div style="margin-bottom: -10px">* indicates equal contribution</div>
+<br>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><video src='images/stream3d-vlm.mp4' poster='images/stream3d-vlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://arxiv.org/abs/2606.06891)
+
+**Hanxun Yu\***, Xuan Qu\*, Lei Ke, Boqiang Zhang, Yuxin Wang, Jianke Zhu, Dong Yu
+
+**ECCV 2026**
+
+<a href="https://stream3d-vlm.github.io/" target="_blank"> [<strong>Project Page</strong>] </a><a href="https://arxiv.org/abs/2606.06891" target="_blank"> [<strong>Paper</strong>] </a>  <a href="https://github.com/hanxunyu/Stream3D-VLM" target="_blank"> [<strong>Code</strong>] </a> <img src="https://img.shields.io/github/stars/hanxunyu/Stream3D-VLM?style=social" />
+
+- The first online 3D vision-language model that supports real-time spatial understanding directly from streaming video, enabling efficient and continuous 3D scene comprehension through incremental geometry integration and geometry-adaptive voxel compression.
 </div>
 </div>
 
