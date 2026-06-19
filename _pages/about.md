@@ -48,6 +48,9 @@ If you are interested in any form of academic cooperation with me, please feel f
 <!-- , &dagger;: corresponding authors -->
 
 # 📝 Selected Publications
+<div style="margin-bottom: -10px">* indicates equal contribution</div>
+<br>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video src='images/depthvlm.mp4' poster='images/depthvlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,9 +65,6 @@ If you are interested in any form of academic cooperation with me, please feel f
 - A unified foundation model for both low-level dense geometry prediction and high-level multimodal understanding, while achieving substantially faster inference than existing VLM-based approaches such as DepthLM and Youtu-VL.
 </div>
 </div>
-
-<div style="margin-bottom: -10px">* indicates equal contribution</div>
-<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><video src='images/stream3d-vlm.mp4' poster='images/stream3d-vlm.png' width="85%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
