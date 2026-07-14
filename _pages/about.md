@@ -189,13 +189,13 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 - *2020,2021,2022* &nbsp;The First Prize of Excellent Undergraduate Scholarship, Wuhan University.
 
 # 📖 Educations
-- <img src='images/zju.png' style='width: 5em;'> *2023.09 - now*, Ph.D, Zhejiang University. 
+- <img src='images/zju.png' style='width: 5em;'> *2023.09 - now*, Ph.D., Zhejiang University. 
 - <img src='images/whu.png' style='width: 5em;'> *2019.09 - 2023.06*, B.Eng. (with Honors), Wuhan University. 
 
 # 💻 Internships
-- *2026.07 - Present*, [Super Intelligence Team, Xiaohongshu](https://fireredteam.github.io/) <img src='images/xhs.png' style='width: 6em;'>, Hangzhou, China. <br>Research Intern (Ph.D)
-- *2025.09 - 2025.06*, [Tencent Hunyuan LLM](https://hunyuan.tencent.com/) <img src='images/hunyuan.png' style='width: 6em;'>, Shenzhen, China. <br>Mentor: [Lei Ke](https://www.kelei.site/#publications)<br>Research Intern (Ph.D)
-- *2025.04 - 2025.09*, [AntGroup](https://www.antgroup.com/) <img src='images/antgroup.png' style='width: 6em;'>, Hangzhou, China. <br>Mentor: [Jian Liu](https://openreview.net/profile?id=~Jian_liu8)<br>Research Intern (Ph.D)
+- *2026.07 - Present*, [Super Intelligence Team, Xiaohongshu](https://fireredteam.github.io/) <img src='images/xhs.png' style='width: 4em;'>, Hangzhou, China. <br>Research Intern (Ph.D.)
+- *2025.09 - 2025.06*, [Tencent Hunyuan LLM](https://hunyuan.tencent.com/) <img src='images/hunyuan.png' style='width: 6em;'>, Shenzhen, China. <br>Mentor: [Lei Ke](https://www.kelei.site/#publications)<br>Research Intern (Ph.D.)
+- *2025.04 - 2025.09*, [AntGroup](https://www.antgroup.com/) <img src='images/antgroup.png' style='width: 6em;'>, Hangzhou, China. <br>Mentor: [Jian Liu](https://openreview.net/profile?id=~Jian_liu8)<br>Research Intern (Ph.D.)
 - *2022.06 - 2022.10*, [McGill University](https://www.mcgill.ca/) <img src='images/mcgill.png' style='width: 6em;'> and [Mila-Quebec AI Institute](https://mila.quebec/en/) <img src='images/mila.png' style='width: 5em;'>, Montreal, Canada.  <a href="../assets/Certificate_Mitacs.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Xujie Si](https://www.cs.toronto.edu/~six/)<br>Research Intern (Undergraduate)
 - *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea. <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Chang D. Yoo](https://sanctusfactory.com/family.php)<br>Research Intern (Undergraduate)
 
