@@ -201,4 +201,4 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE TPAMI
-- Conference Reviewer: ECCV 2026, CVPR 2026, NeurIPS 2026, ICLR 2026, ICML 2026
+- Conference Reviewer: ECCV 2026, CVPR 2026, NeurIPS 2026, ICLR 2026, ICML 2026, ACL 2026
