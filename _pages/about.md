@@ -200,5 +200,5 @@ Xinqi Jin\*, **Hanxun Yu\***, Bohan Yu, Kebin Liu, Jian Liu, Keda Tao, Yixuan Pe
 - *2021.12 - 2022.02*, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <img src='images/kaist.png' style='width: 6em;'>, Daejeon, Korea. <a href="../assets/Certificate_iURP.pdf" target="_blank">[<strong>Certificate</strong>]</a><br>Supervisor: Prof. [Chang D. Yoo](https://sanctusfactory.com/family.php)<br>Research Intern (Undergraduate)
 
 # 💬 Academic Services
-- Journal Reviewer: IEEE TPAMI
+- Journal Reviewer: IEEE TPAMI, Pattern Recognition
 - Conference Reviewer: ECCV 2026, CVPR 2026, NeurIPS 2026, ICLR 2026, ICML 2026, ACL 2026
